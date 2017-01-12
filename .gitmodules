@@ -1,0 +1,3 @@
+[submodule "detail"]
+	path = detail
+	url = git@github.com:brianfoody/detail.git
